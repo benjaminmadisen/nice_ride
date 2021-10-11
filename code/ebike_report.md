@@ -10,7 +10,7 @@ EBikes have high upfront costs but are easy to adopt, making them an
 ideal candidate for bikeshare, which spreads upfront costs over a large
 set of users. The Minneapolis bikeshare program NiceRide, currently
 operated by Lyft, began offering EBikes over the course of 2020. As an
-EBike true believer (picture of me commuting in the snow on my EBike),
+EBike true believer,
 I’m pretty excited by what this means for cities. Bikeable cities are a
 joy to navigate - you get human-scale amenity density, but with a larger
 mobility radius than just by foot. And in my experience EBikes solve a
